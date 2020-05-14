@@ -1,0 +1,2 @@
+# Analyzing_Different_Marketing_Mix_Models
+Analyzing promotional campaigns using Marketing Mix Modeling
