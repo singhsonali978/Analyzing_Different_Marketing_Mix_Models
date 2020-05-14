@@ -16,4 +16,6 @@ CLAAT LINK:  https://docs.google.com/document/d/1fc4cQFyzYER0Pt4k4vcUm0X0B8FppQd
 4. How does Radio spending affect sales? Can you quantify it?
 5. Are there any adstock effects for radio ad spending?
 
-!(https://github.com/singhsonali978/Analyzing_Different_Marketing_Mix_Models/blob/master/Visulaziation/screencapture-na174-lightning-force-wave-wave-app-2020-02-20-22_41_43.png)
+![Alt Text](https://github.com/singhsonali978/Analyzing_Different_Marketing_Mix_Models/blob/master/Visulaziation/screencapture-na174-lightning-force-wave-wave-app-2020-02-20-22_41_43.png)
+
+
